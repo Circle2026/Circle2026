@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm [你的名字] 👋
+## Hi, I'm [Yuansin] 👋
 
 ### Career Transition | Food Technologist → Data Analyst / BI Analyst
 
