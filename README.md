@@ -1,4 +1,4 @@
-## Hi, I'm Yuansin👋
+## Hi, I'm Yuansin👋 教室座號:C5
 
 ### Career Transition | Food Technologist → Data Analyst / BI Analyst
 
