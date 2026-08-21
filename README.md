@@ -14,99 +14,19 @@
 
 ---
 
-## 🗄️ SQL Server
+🛠️ Skills
+SQL Server — 資料庫建置、SQL 查詢、View、CTE、Stored Procedure、權限管理與備份還原
+Python — 基礎程式語法、資料處理、CSV / Excel、SQL Server 存取、Pandas
+SSAS — 維度、Cube、MDX
+SSRS / Power BI Report Server — 編頁報表、資料來源、參數與 KPI
+Power BI — Power Query、資料模型、基礎 DAX、資料視覺化
+🎯 Career Goal
 
-目前學習內容：
+Data Analyst / BI Analyst
 
-* SQL Server 伺服器安裝
-* 資料庫建置及規劃
-* Database Schema / Table Schema
-* 資料表建立與條件約束（Constraint）
-* 資料操作語法
-* 各式查詢與子查詢
-* View 與 CTE
-* 預存程序（Stored Procedure）
-* 函數（Function）
-* 匯入／匯出精靈
-* Login 帳號、使用者帳號
-* 伺服器與資料庫角色
-* 權限管控
-* 災難救援（資料庫備份／還原）
-* 稽核
-
----
-
-## 🐍 Python
-
-目前學習內容：
-
-* 條件分支及迴圈相關語法
-* List、Tuple、Set、Dictionary
-* 文字及日期資料處理
-* Method 與遞迴處理
-* 檔案 I/O 及串流處理
-* CSV 讀寫
-* Excel 讀寫
-* SQL Server 資料庫存取
-* Pandas 套件使用
-
----
-
-## 📊 SSAS
-
-目前學習內容：
-
-* 維度的規劃與建立
-* 維度的設定與調整
-* Cube 的規劃與建立
-* Cube 的處理與部署
-* MDX 語法查詢
-
----
-
-## 📑 SSRS / Power BI Report Server
-
-目前學習內容：
-
-* 各式編頁報表的製作
-* 編頁報表的各種資料來源設定與調整
-* 編頁報表的版面設計與資料呈現
-* 編頁報表的參數搭配
-* 伺服器上的報表上傳與管理
-* KPI 的製作與調整
-
----
-
-## 📈 Power BI
-
-目前學習內容：
-
-* Power Query 初探
-* 資料模型的建置與調整
-* 資料模型－維度
-* 資料模型－維度階層
-* 直接讀取 SQL Server
-* 直接讀取 SSAS Cube
-* 基礎 DAX
-* 視覺工具基本使用
-* 基本視覺效果呈現
-
-  * 直條圖
-  * 折線圖
-  * 圓餅圖
-
----
-
-## 📚 Currently Learning
-
-目前持續學習：
-
-**SQL Server → Python → SSAS / SSRS → Power BI**
-
-希望透過實際練習與專案，逐步累積資料處理、資料庫、BI 與資料視覺化相關經驗。
-
+持續累積資料處理、資料庫與 BI 工具的實務能力，朝資料分析與商業智慧相關職涯發展。
 ==============================================================================================================================
-## Hi, I'm Yuansin👋 教室座號:C5
+## Hi, I'm Yuansin👋 
 
 ### Career Transition | Food Technologist → Data Analyst / BI Analyst
 
