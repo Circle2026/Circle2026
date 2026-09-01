@@ -26,7 +26,7 @@ Git / GitHub
 * **Google Analytics 4 certification**
 * **食品技師**
 * **Haccp A、B**
-* **TOEIC **
+* **TOEIC** 
 
 🎯 Career Goal
 
@@ -74,7 +74,7 @@ This experience gave me the opportunity to live and work in a different environm
 * **Google Analytics 4 certification**
 * **Food Technologist**
 * **Haccp A、B**
-* **TOEIC **
+* **TOEIC**
 
 ### 🎯 Career Direction
 
