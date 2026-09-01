@@ -23,10 +23,10 @@ Power BI — Power Query、資料模型、基礎 DAX、資料視覺化
 Git / GitHub
 
 證照
-Google Analytics 4 certification
-食品技師
-Haccp A、B
-TOEIC 
+* **Google Analytics 4 certification**
+* **食品技師**
+* **Haccp A、B**
+* **TOEIC **
 
 🎯 Career Goal
 
@@ -69,6 +69,12 @@ I am gradually connecting my previous experience in food safety with my new skil
 I also have experience participating in a **Working Holiday in Ireland**.
 
 This experience gave me the opportunity to live and work in a different environment, while gaining international work and life experience.
+
+### Certification
+* **Google Analytics 4 certification**
+* **Food Technologist**
+* **Haccp A、B**
+* **TOEIC **
 
 ### 🎯 Career Direction
 
