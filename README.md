@@ -21,6 +21,13 @@ SSAS — 維度、Cube、MDX
 SSRS / Power BI Report Server — 編頁報表、資料來源、參數與 KPI
 Power BI — Power Query、資料模型、基礎 DAX、資料視覺化
 Git / GitHub
+
+證照
+Google Analytics 4 certification
+食品技師
+Haccp A、B
+TOEIC 
+
 🎯 Career Goal
 
 Data Analyst / BI Analyst
