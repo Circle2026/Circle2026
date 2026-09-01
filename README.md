@@ -1,4 +1,4 @@
-# Hi! 我是芫妡👋             教室座號:C5/專案試寫-> twbuyers-scraper
+# Hi! 我是芫妡👋             
 
 過去曾任職於**食品技師**，目前正在轉職並以 **資料分析師（BI Analyst）** 為主要發展方向。
 
@@ -20,6 +20,7 @@ Python — 基礎程式語法、資料處理、CSV / Excel、SQL Server 存取�
 SSAS — 維度、Cube、MDX
 SSRS / Power BI Report Server — 編頁報表、資料來源、參數與 KPI
 Power BI — Power Query、資料模型、基礎 DAX、資料視覺化
+Git / GitHub
 🎯 Career Goal
 
 Data Analyst / BI Analyst
