@@ -44,25 +44,33 @@ My previous experience is mainly in **food safety management**, including mainta
 
 Currently, I am building my foundation in **data analysis and business intelligence**, with a focus on learning and applying the following tools:
 
-### 🛠️ Currently Learning
+## 🛠️ Technical Skills
 
-* **SQL Server**
-* **Python**
-* **SSAS** — SQL Server Analysis Services
-* **SSRS** — SQL Server Reporting Services
-* **Power BI**
-* **Git / GitHub**
+### Data & Database
+- **SQL Server:** SQL, Views, CTEs, Stored Procedures, Database Administration
+- **Python:** Pandas, CSV / Excel processing, SQL Server connectivity
+
+### Business Intelligence
+- **Power BI:** Power Query, Data Modeling, DAX, Data Visualization
+- **SSAS:** Dimensional Modeling, Cubes, MDX
+- **SSRS:** Paginated Reports, Parameters, Data Sources, KPIs
+- **Power BI Report Server**
+
+### Tools
+- **Git / GitHub**
+
 
 I am gradually connecting my previous experience in food safety with my new skills in **data analysis and BI**, and learning how to use data to support analysis, reporting, and decision-making.
 
-### 🥼 Previous Experience
+## 💼 Previous Experience
 
-**Food Technologist**
+### Food Technologist
 
-* Maintenance of food safety management systems
-* HACCP management and maintenance
-* ISO 22000 management and maintenance
-* Food safety-related documentation and processes
+- Maintained and managed food safety management systems, including **HACCP** and **ISO 22000**.
+- Managed food safety documentation, procedures, and compliance-related processes.
+- Worked with structured records and operational data to support food safety management and decision-making.
+- Developed strong attention to detail, documentation, process management, and cross-functional communication.
+
 
 ### 🌏 Working Holiday
 
