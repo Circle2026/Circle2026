@@ -1,9 +1,9 @@
-### Hi, I'm Yuansin 👋
+# Hi, I'm Yuansin 👋
 Data Analyst / BI Analyst | Career Changer
 Food Technologist → Data Analytics & Business Intelligence
 
 ## 👋 關於我 | About Me
-# 🇹🇼 中文
+### 🇹🇼 中文
 
 我過去曾任職於食品技師，主要累積食品安全管理、HACCP、ISO 22000、文件管理與流程管理等相關經驗。
 
@@ -13,7 +13,7 @@ Food Technologist → Data Analytics & Business Intelligence
 
 我希望結合過去的食品產業 Domain Knowledge 與資料分析、Business Intelligence 技能，利用資料協助企業進行分析、報表與決策。
 
-# 🇬🇧 English
+### 🇬🇧 English
 
 I am a career changer transitioning from a background in food technology and food safety management to Data Analytics and Business Intelligence.
 
