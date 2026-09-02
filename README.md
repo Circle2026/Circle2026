@@ -55,6 +55,7 @@ SQL & Database
 Data Modeling
 Data Visualization
 Reporting & Dashboard Development
+
 🛠️ Technical Skills
 Data & Database
 SQL Server: SQL, Views, CTEs, Stored Procedures, Database Administration
@@ -66,6 +67,7 @@ SSRS: Paginated Reports, Data Sources, Parameters, KPIs
 Power BI Report Server
 Tools
 Git / GitHub
+
 📊 Projects
 BI & Data Analysis Projects
 
@@ -82,13 +84,13 @@ Developed strong skills in attention to detail, process management, documentatio
 
 🌏 International Experience
 Working Holiday — Ireland
-
 Gained international work and life experience while adapting to a different cultural and working environment.
 
 🎓 Certifications
 Google Analytics 4 Certification
 HACCP A / B
 TOEIC
+
 📚 Currently Developing
 
 I am continuously developing my practical skills in:
@@ -99,12 +101,15 @@ Power BI & DAX
 SSAS & Data Modeling
 SSRS & Paginated Reporting
 Data Analysis & Business Intelligence
+
 📫 Contact
 
 I am open to opportunities in Data Analytics and Business Intelligence.
 
-#💻 GitHub: Yuansin
-#💼 LinkedIn: 
-#📧 Email:
+💻 GitHub: Yuansin
+
+💼 LinkedIn:
+
+📧 Email:
 
 From Food Safety to Data Analysis — building a new career step by step.
