@@ -1,4 +1,4 @@
-###Hi, I'm Yuansin 👋
+##Hi, I'm Yuansin 👋
 Data Analyst / BI Analyst | Career Changer
 Food Technologist → Data Analytics & Business Intelligence
 
