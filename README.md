@@ -79,6 +79,7 @@ Maintained and managed food safety management systems, including HACCP and ISO 2
 Managed food safety documentation, procedures, and compliance-related processes.
 Worked with structured records and operational data to support food safety management and decision-making.
 Developed strong skills in attention to detail, process management, documentation, and cross-functional communication.
+
 🌏 International Experience
 Working Holiday — Ireland
 
@@ -102,8 +103,8 @@ Data Analysis & Business Intelligence
 
 I am open to opportunities in Data Analytics and Business Intelligence.
 
-💻 GitHub: Yuansin
-💼 LinkedIn: Add your LinkedIn profile here
-📧 Email: Add your email here
+#💻 GitHub: Yuansin
+#💼 LinkedIn: 
+#📧 Email:
 
 From Food Safety to Data Analysis — building a new career step by step.
