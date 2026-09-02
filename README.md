@@ -1,16 +1,26 @@
-# Hi! 我是芫妡👋             
+###Hi, I'm Yuansin 👋
+Data Analyst / BI Analyst | Career Changer
+Food Technologist → Data Analytics & Business Intelligence
 
-過去曾任職**食品技師**，目前正在轉職並以 **資料分析師（BI Analyst）** 為主要發展方向。
+👋 關於我 | About Me
+🇹🇼 中文
+我過去曾任職於食品技師，主要累積食品安全管理、HACCP、ISO 22000、文件管理與流程管理等相關經驗。
 
-目前主要學習與累積 **SQL Server、Python、SSAS、SSRS、Power BI** 等資料分析與 BI 相關技能，逐步建立從資料庫、資料處理、資料模型到報表呈現的完整基礎。
+目前正轉職往 資料分析師（Data Analyst）／商業智慧分析師（BI Analyst） 發展，持續建立 SQL Server、Python、SSAS、SSRS、Power BI 等資料分析與 BI 技能。
 
----
+目前的學習方向涵蓋從資料庫、資料處理、資料模型、BI 報表到資料視覺化，並透過實作專案逐步累積實務經驗。
 
-## 🎯 職涯方向
+我希望結合過去的食品產業 Domain Knowledge 與資料分析、Business Intelligence 技能，利用資料協助企業進行分析、報表與決策。
 
-**Data Analyst / BI Analyst**
+🇬🇧 English
+I am a career changer transitioning from a background in food technology and food safety management to Data Analytics and Business Intelligence.
 
-目前持續學習資料庫管理、資料處理、資料模型、BI 工具與報表製作，希望將過去食品相關工作經驗與目前所學的資料分析技能結合，逐步往資料分析與商業智慧（Business Intelligence）方向發展。
+My previous experience includes HACCP, ISO 22000, food safety management, documentation, and process management.
+
+I am currently building practical skills in SQL Server, Python, SSAS, SSRS, and Power BI, with a focus on data processing, data modeling, reporting, visualization, and business intelligence.
+
+I am interested in combining my previous food industry domain knowledge with data and BI skills to support data-driven analysis, reporting, and decision-making.
+
 
 ---
 
