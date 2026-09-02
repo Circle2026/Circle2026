@@ -16,10 +16,15 @@
 
 🛠️ Skills
 SQL Server — 資料庫建置、SQL 查詢、View、CTE、Stored Procedure、權限管理與備份還原
+
 Python — 基礎程式語法、資料處理、CSV / Excel、SQL Server 存取、Pandas
+
 SSAS — 維度、Cube、MDX
+
 SSRS / Power BI Report Server — 編頁報表、資料來源、參數與 KPI
+
 Power BI — Power Query、資料模型、基礎 DAX、資料視覺化
+
 Git / GitHub
 
 證照
