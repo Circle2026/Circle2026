@@ -66,9 +66,13 @@ Food Safety Management
 HACCP · ISO 22000 · Documentation · Process Management
 
 • Maintained HACCP and ISO 22000 food safety systems
+
 • Managed food safety documentation and procedures
+
 • Supported compliance and operational processes
+
 • Worked with structured records and operational data
+
 • Collaborated across functions
 
 
