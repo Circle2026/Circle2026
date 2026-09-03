@@ -60,11 +60,17 @@ I am currently building practical projects using SQL Server, Python, SSAS, SSRS,
 Project details and case studies will be added here as they are completed.
 
 ## 💼 Previous Experience
-Food Technologist
-Maintained and managed food safety management systems, including HACCP and ISO 22000.
-Managed food safety documentation, procedures, and compliance-related processes.
-Worked with structured records and operational data to support food safety management and decision-making.
-Developed strong skills in attention to detail, process management, documentation, and cross-functional communication.
+FOOD TECHNOLOGIST
+
+Food Safety Management
+HACCP · ISO 22000 · Documentation · Process Management
+
+• Maintained HACCP and ISO 22000 food safety systems
+• Managed food safety documentation and procedures
+• Supported compliance and operational processes
+• Worked with structured records and operational data
+• Collaborated across functions
+
 
 ## 🌏 International Experience
 Working Holiday — Ireland
