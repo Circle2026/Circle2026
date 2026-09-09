@@ -37,7 +37,12 @@ SSRS / Power BI Report Server — 編頁報表、資料來源、參數與 KPI
 
 Power BI — Power Query、資料模型、基礎 DAX、資料視覺化
 
-Git / GitHub
+Git / GitHub-版本控制
+Streamlit
+
+## 持續學習中
+snowflake
+網路爬蟲
 
 ## 🎓 Certifications 
 * **Google Analytics 4 certification**
