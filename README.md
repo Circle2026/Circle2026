@@ -88,6 +88,6 @@ I am open to opportunities in Data Analytics and Business Intelligence.
 
 💼 LinkedIn:
 
-📧 Email:
+📧 Email:circle992021@gmail.com
 
 From Food Safety to Data Analysis — building a new career step by step.
