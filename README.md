@@ -41,8 +41,7 @@ Git / GitHub-版本控制
 Streamlit
 
 ## 持續學習中
-snowflake
-網路爬蟲
+snowflake、網路爬蟲
 
 ## 🎓 Certifications 
 * **Google Analytics 4 certification**
