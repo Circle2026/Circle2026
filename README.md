@@ -45,9 +45,9 @@ snowflake、網路爬蟲、SSIS
 
 ## 🎓 Certifications 
 * **Google Analytics 4 certification**
+* **TOEIC 765**
 * **食品技師**
 * **Haccp A、B**
-* **TOEIC** 
 
 ## 🎯 Career Goal
 
