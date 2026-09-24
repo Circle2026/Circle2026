@@ -41,7 +41,7 @@ Git / GitHub-版本控制
 Streamlit
 
 ## 持續學習中
-snowflake、網路爬蟲、SSIS
+snowflake、網路爬蟲、SSIS、Big Query
 
 ## 🎓 Certifications 
 * **Google Analytics 4 certification**
