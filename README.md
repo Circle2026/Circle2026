@@ -90,7 +90,7 @@ I am open to opportunities in Data Analytics and Business Intelligence.
 
 💻 Streamlit: https://myportfolio2026.streamlit.app/ 
 
-💼 LinkedIn:https://ie.linkedin.com/in/yuansin-wan-bb5909377 
+💼 LinkedIn:https://www.linkedin.com/in/yuansin-wan-06485a439 
 
 📧 Email:circle992021@gmail.com
 
