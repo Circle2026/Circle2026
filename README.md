@@ -88,9 +88,9 @@ Gained international work and life experience while adapting to a different cult
 
 I am open to opportunities in Data Analytics and Business Intelligence.
 
-💻 GitHub: Circle2026
+💻 Streamlit: https://myportfolio2026.streamlit.app/ 
 
-💼 LinkedIn:
+💼 LinkedIn:https://ie.linkedin.com/in/yuansin-wan-bb5909377 
 
 📧 Email:circle992021@gmail.com
 
